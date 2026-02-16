@@ -1,0 +1,8 @@
+.claude
+# Compiled binaries
+*.out
+*.o
+*.exe
+main
+rust_exercises
+reversebits
